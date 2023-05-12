@@ -11,5 +11,5 @@ monkey go brrr
   <img src="https://count.getloli.com/get/@xyzbtwt?theme=gelbooru" />
 </p>
 
-# Contact me
-Discord: xyzbtw#4648
+# Discord
+xyzbtw#4648
