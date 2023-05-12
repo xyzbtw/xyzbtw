@@ -1,16 +1,15 @@
-### Hi there 👋
+# About Me
+monkey go brrr
 
-<!--
-**xyzbtw/xyzbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
 
-Here are some ideas to get you started:
+![Overview](https://github-readme-stats.vercel.app/api?username=xyzbtw&count_private=true&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Profile views
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@xyzbtwt?theme=gelbooru" />
+</p>
+
+# Contact me
+Discord: xyzbtw#4648
