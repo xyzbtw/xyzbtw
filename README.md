@@ -1,4 +1,4 @@
-# About Me
+## About Me
 monkey go brrr
 
 # Stats
@@ -12,4 +12,4 @@ monkey go brrr
 </p>
 
 # Discord
-xyzbtwballs
+xyzbtw
